@@ -1,2 +1,0 @@
-username = nfs01
-password = nfs2003
